@@ -19,8 +19,8 @@ conencted to on your Arduino.
 Current Status
 ==============
 
-Program Working. <br>
-90% done. See todo for work yet to be done.
+Program Working.<br>
+90% done. See todo for work yet to be done.<br>
 Development halted.
 
 
